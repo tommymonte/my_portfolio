@@ -6,7 +6,7 @@ You can find me here:
   <a href="https://github.com/tommymonte">
     <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/tommasomontedoro">
+  <a href="https://www.linkedin.com/in/tommasomontedoro">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tommaso.montedoro@gmail.com">
