@@ -91,3 +91,5 @@ Final grade: 99/110
 
 - **Certificates**:  
   IELTS 6.0
+
+- **Pianist**
