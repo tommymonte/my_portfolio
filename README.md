@@ -37,7 +37,7 @@ dynamic voltage scaling.
 • Modeled and simulated energy storage, generation, and conversion systems for an IoT device using
 SystemC/SystemC-AMS
 • Tools Used: C, Python
-- **[Algorithm to Reduce Leakage Power]**: Developed an algorithm to minimize leakage power in integrated circuits, improving energy efficiency.
+- **[Algorithm to Reduce Leakage Power](https://github.com/tommymonte/LeakagePowerOpt-TCLScript)**: Developed an algorithm to minimize leakage power in integrated circuits, improving energy efficiency.
 • Tools Used: Tcl, Bash, PrimeTime
 - **[Morse Code Emulation on STM32L496VETx](https://github.com/tommymonte/morseCode_STM32L496VETx)**:
 • Developed firmware to emulate Morse code.
@@ -57,12 +57,8 @@ remove, and search for books via a command-line interface.
 
 # What about me
 ## Biography
-My name is Tommaso Montedoro, born in Turin on 11/10/2001. I am a final-year Master’s student in Computer
-Engineering (Embedded Systems) at Politecnico di Torino, with a strong focus on real-time systems,
-microcontroller architectures, and embedded software development. I am passionate about leveraging
-cutting-edge technology to solve complex challenges and thrive in fast-paced, innovative environments. Motivated
-and adaptable, I’m eager to embrace new opportunities, broaden my skill set, and collaborate on projects that fuel
-both my professional and personal growth.
+My name is Tommaso Montedoro, born in Turin on 11/10/2001. I am a final-year Master’s student in Computer Engineering (Embedded Systems) at Politecnico di Torino, with a strong focus on real-time systems, microcontroller architectures, and embedded software development. 
+I am passionate about leveraging cutting-edge technology to solve complex challenges and thrive in fast-paced, innovative environments. Motivatedand adaptable, I’m eager to embrace new opportunities, broaden my skill set, and collaborate on projects that fuel both my professional and personal growth.
 
 ## Professional Experience
 ### Firmware Developer
@@ -96,18 +92,20 @@ Sept 2021 - Ongoing
 - Support for high school students
 
 ## Education
-Politecnic of Turin, MSc in Computer Engineering - Embedded Systems Sept 2023 – current
-• Significant Course: Computer Architecture, Operating Systems for Embedded Systems, Microelectronics,
-Electronics for Embedded Systems, Synthesis of digital systems, Cybersecurity for Embedded Systems, Software Engineering, Energy Management for IoT
+**Politecnic of Turin, MSc in Computer Engineering - Embedded Systems**
+  Sept 2023 – current
+  • Significant Course: Computer Architecture, Operating Systems for Embedded Systems, Microelectronics,
+    Electronics for Embedded Systems, Synthesis of digital systems, Cybersecurity for Embedded Systems, Software Engineering, Energy Management for IoT
 
-Politecnic of Turin, BSc in Electronic and Telecomunication Engineering Sept 2020 – Sept 2023
-• 99/110
+**Politecnic of Turin, BSc in Electronic and Telecomunication Engineering** 
+  Sept 2020 – Sept 2023
+  • 99/110
 
 - **Software Skills**:  
   Python (Proficient), C (Proficient), LaTeX (Proficient), C++ (Proficient), Assembly ARM (Proficient), VHDL (Proficient), Bash (Proficient),  MATLAB (Intermediate), JavaScript (Intermediate)
 
 - **Tools**:
-  FreeRTOS, Synopsys, Questasim, Modelsim, Keil, GNU/Linux
+  FreeRTOS, Synopsys, Questasim, Modelsim, Keil, GNU/Linux, NXP Design Studio
   
 ## Languages and Skills
 - **Languages**:  
