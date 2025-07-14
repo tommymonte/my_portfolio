@@ -1,4 +1,4 @@
-# Hello! I'm Tommaso
+# Hello! I'm Tommaso and this is my personal portfolio.
 
 You can find me here:
 
@@ -12,8 +12,51 @@ You can find me here:
   <a href="mailto:tommaso.montedoro@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="assets/CV_Tommaso_Montedoro.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-CV-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  </a>
 </p>
 
+## Projects
+- **[Pacman](https://github.com/tommymonte/PACMAN_VideoGame_Landtiger)**: Developed a C firmware for the iconic Pacman game on a Landtiger board, enabling communication among various onboard peripherals.
+• Tools Used: C, ARM Assembly, Keil
+- **[Implemented S32K358 on QEMU — LPUART, GPIO, and Memory Mapping](ongoing)**: Developed LPUART and GPIO support for the unsupported S32K358 board on QEMU, including custom memory
+mapping and firmware development for multiple peripherals.
+• Tools Used: C, Bash, FreeRTOS, QEMU, NXP Design Studio
+- **[TPM 2.0 Simulation on QEMU — Command Chain and Cryptographic Module](ongoing)**:
+• Designed and implemented a Trusted Platform Module (TPM 2.0) simulation on QEMU, focusing on command
+chain processing and cryptographic key management (asymmetric key generation, secure storage).
+• Tools: C, C++, QEMU
+- **[Energy-Efficient Systems and Power Management ](https://github.com/tommymonte/em_iot_application)**: 
+• Designed and implemented power management strategies for three IoT applications to optimize energy
+consumption and extend device lifetime.
+• Developed and tested Dynamic Power Management (DPM) policies, including timeout-based and predictive
+approaches, to reduce power waste in embedded systems.
+• Applied image processing techniques for power-efficient OLED displays, leveraging color transformations and
+dynamic voltage scaling.
+• Modeled and simulated energy storage, generation, and conversion systems for an IoT device using
+SystemC/SystemC-AMS
+• Tools Used: C, Python
+- **[Algorithm to Reduce Leakage Power]**: Developed an algorithm to minimize leakage power in integrated circuits, improving energy efficiency.
+• Tools Used: Tcl, Bash, PrimeTime
+- **[Morse Code Emulation on STM32L496VETx](https://github.com/tommymonte/morseCode_STM32L496VETx)**:
+• Developed firmware to emulate Morse code.
+• The firmware is designed and tested for the STM32L496VETx MCU.
+• Tools: C, FreeRTOS, STM32CubeIDE, PuTTY
+- **[Hardware Automated Simulation](https://github.com/tommymonte/hardware-sim-automation)**:
+• Developed a C++ script to automate ModelSim simulation tasks.
+• Tools: C++, VHDL, ModelSim
+-**[Library Management Program](https://github.com/tommymonte/library_management_program)**:
+• Developed a simple library management system using two primary classes. The program allows users to add,
+remove, and search for books via a command-line interface.
+• Tools: C++
+- **[Software for Electronics Shop Sales Management](https://github.com/tommymonte/ezelectronics)**: Designed and implemented a system to manage sales, inventory, and customer data for an electronics shop.
+• Tools Used: JavaScript, Node.js, UML, TypeScript
+
+
+
+# What about me
+## Biography
 My name is Tommaso Montedoro, born in Turin on 11/10/2001. I am a final-year Master’s student in Computer
 Engineering (Embedded Systems) at Politecnico di Torino, with a strong focus on real-time systems,
 microcontroller architectures, and embedded software development. I am passionate about leveraging
@@ -22,7 +65,6 @@ and adaptable, I’m eager to embrace new opportunities, broaden my skill set, a
 both my professional and personal growth.
 
 ## Professional Experience
-
 ### Firmware Developer
 **Team ISAAC – Politecnico di Torino, Turin (Italy), Remote and On-site**
 March 2024 - Oct 2024
@@ -54,42 +96,24 @@ Sept 2021 - Ongoing
 - Support for high school students
 
 ## Education
+Politecnic of Turin, MSc in Computer Engineering - Embedded Systems Sept 2023 – current
+• Significant Course: Computer Architecture, Operating Systems for Embedded Systems, Microelectronics,
+Electronics for Embedded Systems, Synthesis of digital systems, Cybersecurity for Embedded Systems, Software Engineering, Energy Management for IoT
 
-### Master in Computer Engineering - Embedded Systems (MSc.)
-**Politecnico di Torino, Torino, Italy**  
-September 2023 - Ongoing  
-Significant Course: Computer Architecture, Operating Systems for Embedded Systems, Microelectronics, Electronics for Embedded Systems, Syntesis of digital systems.
-
-### Bachelor of Electronic and Telecomunication Engineering
-**Politecnico di Torino, Torino, Italy**  
-2020 - 2023  
-Final grade: 99/110
-
-## Projects
-- **[Pacman](https://github.com/tommymonte)**: Developed a C firmware for the iconic Pacman game on a Landtiger board, enabling communication among various onboard peripherals.
-• Tools Used: C, ARM Assembly, Keil, Visual Studio Code
-- **[QEMU Unsupported Board](https://github.com/tommymonte)**: Implemented support for an unsupported board on QEMU, including memory mapping and firmware development for several peripherals.
-• Tools Used: C, Bash, FreeRTOS
-- **[Energy and Power Managament Policy for an IoT application](https://github.com/tommymonte)**: Implemented different policies for three IoT applications.
-• Tools Used: C, Python
-- **[Algorithm to Reduce Leakage Power 2002](https://github.com/tommymonte)**: Developed an algorithm to minimize leakage power in integrated circuits, improving energy efficiency.
-• Tools Used: Tcl, Bash, PrimeTime
-- **[Software for Electronics Shop Sales Management 2002](https://github.com/tommymonte)**: Designed and implemented a system to manage sales, inventory, and customer data for an electronics shop.
-• Tools Used: JavaScript, Node.js, UML, TypeScript
-
-## Languages and Skills
-- **Languages**:  
-  Italian: Native  
-  English: Fluent  
-  Portuguese : Duo linguo :D
+Politecnic of Turin, BSc in Electronic and Telecomunication Engineering Sept 2020 – Sept 2023
+• 99/110
 
 - **Software Skills**:  
   Python (Proficient), C (Proficient), LaTeX (Proficient), C++ (Proficient), Assembly ARM (Proficient), VHDL (Proficient), Bash (Proficient),  MATLAB (Intermediate), JavaScript (Intermediate)
 
 - **Tools**:
   FreeRTOS, Synopsys, Questasim, Modelsim, Keil, GNU/Linux
+  
+## Languages and Skills
+- **Languages**:  
+  Italian: Native  
+  English: Fluent 
 
 - **Certificates**:  
   IELTS 6.0
 
-- **Pianist**
