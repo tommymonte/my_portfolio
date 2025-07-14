@@ -18,40 +18,37 @@ You can find me here:
 </p>
 
 ## Projects
-- **[Pacman](https://github.com/tommymonte/PACMAN_VideoGame_Landtiger)**: Developed a C firmware for the iconic Pacman game on a Landtiger board, enabling communication among various onboard peripherals.
-• Tools Used: C, ARM Assembly, Keil
-- **[Implemented S32K358 on QEMU — LPUART, GPIO, and Memory Mapping](ongoing)**: Developed LPUART and GPIO support for the unsupported S32K358 board on QEMU, including custom memory
-mapping and firmware development for multiple peripherals.
-• Tools Used: C, Bash, FreeRTOS, QEMU, NXP Design Studio
+- **[Pacman](https://github.com/tommymonte/PACMAN_VideoGame_Landtiger)**: 
+  - Developed a C firmware for the iconic Pacman game on a Landtiger board, enabling communication among various onboard peripherals.
+  - Tools Used: C, ARM Assembly, Keil
+- **[Implemented S32K358 on QEMU — LPUART, GPIO, and Memory Mapping](ongoing)**: 
+  - Developed LPUART and GPIO support for the unsupported S32K358 board on QEMU, including custom memory mapping and firmware development for multiple peripherals.
+  - Tools Used: C, Bash, FreeRTOS, QEMU, NXP Design Studio
 - **[TPM 2.0 Simulation on QEMU — Command Chain and Cryptographic Module](ongoing)**:
-• Designed and implemented a Trusted Platform Module (TPM 2.0) simulation on QEMU, focusing on command
-chain processing and cryptographic key management (asymmetric key generation, secure storage).
-• Tools: C, C++, QEMU
+  - Designed and implemented a Trusted Platform Module (TPM 2.0) simulation on QEMU, focusing on command chain processing and cryptographic key management (asymmetric key generation, secure storage).
+  - Tools: C, C++, QEMU
 - **[Energy-Efficient Systems and Power Management ](https://github.com/tommymonte/em_iot_application)**: 
-• Designed and implemented power management strategies for three IoT applications to optimize energy
-consumption and extend device lifetime.
-• Developed and tested Dynamic Power Management (DPM) policies, including timeout-based and predictive
-approaches, to reduce power waste in embedded systems.
-• Applied image processing techniques for power-efficient OLED displays, leveraging color transformations and
-dynamic voltage scaling.
-• Modeled and simulated energy storage, generation, and conversion systems for an IoT device using
-SystemC/SystemC-AMS
-• Tools Used: C, Python
-- **[Algorithm to Reduce Leakage Power](https://github.com/tommymonte/LeakagePowerOpt-TCLScript)**: Developed an algorithm to minimize leakage power in integrated circuits, improving energy efficiency.
-• Tools Used: Tcl, Bash, PrimeTime
+  - Designed and implemented power management strategies for three IoT applications to optimize energy consumption and extend device lifetime.
+  - Developed and tested Dynamic Power Management (DPM) policies, including timeout-based and predictive approaches, to reduce power waste in embedded systems.
+  - Applied image processing techniques for power-efficient OLED displays, leveraging color transformations and dynamic voltage scaling.
+  - Modeled and simulated energy storage, generation, and conversion systems for an IoT device using SystemC/SystemC-AMS
+  - Tools Used: C, Python
+- **[Algorithm to Reduce Leakage Power](https://github.com/tommymonte/LeakagePowerOpt-TCLScript)**: 
+  - Developed an algorithm to minimize leakage power in integrated circuits, improving energy efficiency.
+  - Tools Used: Tcl, Bash, PrimeTime
 - **[Morse Code Emulation on STM32L496VETx](https://github.com/tommymonte/morseCode_STM32L496VETx)**:
-• Developed firmware to emulate Morse code.
-• The firmware is designed and tested for the STM32L496VETx MCU.
-• Tools: C, FreeRTOS, STM32CubeIDE, PuTTY
+  - Developed firmware to emulate Morse code.
+  - The firmware is designed and tested for the STM32L496VETx MCU.
+  - Tools: C, FreeRTOS, STM32CubeIDE, PuTTY
 - **[Hardware Automated Simulation](https://github.com/tommymonte/hardware-sim-automation)**:
-• Developed a C++ script to automate ModelSim simulation tasks.
-• Tools: C++, VHDL, ModelSim
+  - Developed a C++ script to automate ModelSim simulation tasks.
+  - Tools: C++, VHDL, ModelSim
 -**[Library Management Program](https://github.com/tommymonte/library_management_program)**:
-• Developed a simple library management system using two primary classes. The program allows users to add,
-remove, and search for books via a command-line interface.
-• Tools: C++
-- **[Software for Electronics Shop Sales Management](https://github.com/tommymonte/ezelectronics)**: Designed and implemented a system to manage sales, inventory, and customer data for an electronics shop.
-• Tools Used: JavaScript, Node.js, UML, TypeScript
+  - Developed a simple library management system using two primary classes. The program allows users to add, remove, and search for books via a command-line interface.
+  - Tools: C++
+- **[Software for Electronics Shop Sales Management](https://github.com/tommymonte/ezelectronics)**: 
+  - Designed and implemented a system to manage sales, inventory, and customer data for an electronics shop.
+  - Tools Used: JavaScript, Node.js, UML, TypeScript
 
 
 
