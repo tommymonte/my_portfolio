@@ -106,4 +106,4 @@ I am particularly interested in **automotive-grade embedded systems, hardware/so
 *Politecnico di Torino* — *Sept 2023 – Present*
 
 **BSc in Electronic and Telecommunication Engineering**  
-*Politecnico di Torino* — *Sept 202*
+*Politecnico di Torino* — *Sept 2020 - Sept 2023*
