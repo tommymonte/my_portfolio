@@ -35,7 +35,7 @@ I am particularly interested in **automotive-grade embedded systems, hardware/so
 - Conducting a **Master’s thesis project** focused on embedded firmware and memory fault analysis in collaboration with Politecnico di Torino  
 - Developed and validated **full-resolution bitmap datasets** and pixel-wise representations to support GAN-based super-resolution autoencoders for fault reconstruction  
 - Implemented **low-level firmware**, debugging, and **data compression workflows** for fault diagnosis on automotive **RRAM devices (TC48x, TC45x)**  
-- Performed firmware-level debugging using **GDB, MMIO tracing**, and hardware–software interaction analysis  
+- Performed firmware-level debugging using hardware–software interaction analysis  
 
 ---
 
