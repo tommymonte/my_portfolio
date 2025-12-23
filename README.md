@@ -27,6 +27,34 @@ I am particularly interested in **automotive-grade embedded systems, hardware/so
 
 ---
 
+## 💼 Professional Experience
+
+### **Firmware Engineer Intern**
+**Infineon Technologies – Munich, Germany**  
+*October 2025 – March 2026*  
+- Conducting a **Master’s thesis project** focused on embedded firmware and memory fault analysis in collaboration with Politecnico di Torino  
+- Developed and validated **full-resolution bitmap datasets** and pixel-wise representations to support GAN-based super-resolution autoencoders for fault reconstruction  
+- Implemented **low-level firmware**, debugging, and **data compression workflows** for fault diagnosis on automotive **RRAM devices (TC48x, TC45x)**  
+- Performed firmware-level debugging using **GDB, MMIO tracing**, and hardware–software interaction analysis  
+
+---
+
+### **Firmware Developer**
+**Team ISAAC – Politecnico di Torino, Italy**  
+*March 2024 – October 2024*  
+- Contributed to firmware development and **communication protocol design** for a thermal camera with integrated GUI used in a robotic system  
+- Supported system integration and hardware bring-up activities  
+
+---
+
+### **Laboratory Collaborator**
+**Politecnico di Torino – Italy**  
+*October 2023 – March 2024*  
+- Provided hardware and software support during laboratory sessions  
+- Assisted students in debugging hardware and software issues  
+
+---
+
 ## 🚀 Selected Projects
 
 ### **S32K358 Emulation on QEMU — LPUART, GPIO & Memory Mapping**
@@ -41,26 +69,23 @@ I am particularly interested in **automotive-grade embedded systems, hardware/so
 
 ### **TPM 2.0 Simulation on QEMU — Command Chain & Cryptographic Module** *(ongoing)*
 - Designed and implemented a **TPM 2.0 virtual device** on QEMU  
-- Implemented **command parsing, command chains, and internal state management**  
-- Integrated **cryptographic primitives** (asymmetric key generation, secure key storage)  
-- Strong focus on **security architecture and trusted execution concepts**
+- Implemented **command parsing, internal state management, and cryptographic primitives**  
+- Focus on **secure platform architecture and debuggability**
 - **Tools**: C, C++, QEMU
 
 ---
 
 ### **Pacman Videogame on Landtiger Board**
 🔗 https://github.com/tommymonte/PACMAN_VideoGame_Landtiger  
-- Developed a complete **C firmware** for the Pacman game on a Landtiger (ARM-based) board  
-- Implemented communication between multiple **on-board peripherals**  
-- Low-level control using **C and ARM Assembly**
+- Developed complete **C firmware** for the Pacman game on an ARM-based board  
+- Implemented low-level peripheral communication  
 - **Tools**: C, ARM Assembly, Keil
 
 ---
 
 ### **Energy-Efficient Systems and Power Management**
 🔗 https://github.com/tommymonte/em_iot_application  
-- Designed **power management strategies** for IoT applications  
-- Implemented **Dynamic Power Management (DPM)** policies (timeout-based and predictive)  
+- Designed and implemented **Dynamic Power Management (DPM)** strategies for IoT systems  
 - Applied **image processing techniques** for power-efficient OLED displays  
 - Modeled energy storage and generation using **SystemC / SystemC-AMS**
 - **Tools**: C, Python, SystemC
@@ -70,84 +95,15 @@ I am particularly interested in **automotive-grade embedded systems, hardware/so
 ### **Leakage Power Optimization Algorithm**
 🔗 https://github.com/tommymonte/LeakagePowerOpt-TCLScript  
 - Developed an algorithm to **reduce leakage power** in integrated circuits  
-- Automated analysis and optimization flows
+- Automated power analysis and optimization flows
 - **Tools**: Tcl, Bash, Synopsys PrimeTime
-
----
-
-### **Morse Code Emulation on STM32L496**
-🔗 https://github.com/tommymonte/morseCode_STM32L496VETx  
-- Developed firmware for **Morse code generation** on STM32 MCU  
-- Real-time task management using FreeRTOS
-- **Tools**: C, FreeRTOS, STM32CubeIDE, PuTTY
-
----
-
-### **Hardware Simulation Automation**
-🔗 https://github.com/tommymonte/hardware-sim-automation  
-- Developed a **C++ automation tool** for ModelSim simulations  
-- Streamlined verification workflows
-- **Tools**: C++, VHDL, ModelSim
-
----
-
-## 💼 Professional Experience
-
-### **Firmware Developer**
-**Team ISAAC – Politecnico di Torino (Italy)**  
-*March 2024 – October 2024*  
-- Maintained and extended existing firmware for robotic systems  
-- Contributed to **communication protocol design** for a thermal camera with integrated GUI  
-- Firmware used to operate a **robot remote controller**  
-- Managed hardware inventory and supported system integration
-
----
-
-### **Laboratory Collaborator**
-**Politecnico di Torino**  
-*October 2023 – March 2024*  
-- Provided **hardware and software support** during laboratory sessions  
-- Managed lab equipment, including **traditional and 3D printing services**  
-- Assisted students in debugging hardware/software issues
 
 ---
 
 ## 🎓 Education
 
 **MSc in Computer Engineering – Embedded Systems**  
-*Politecnico di Torino* — *Sept 2023 – Present*  
-- Relevant courses:  
-  Computer Architecture, Operating Systems for Embedded Systems,  
-  Electronics for Embedded Systems, Digital System Synthesis,  
-  Cybersecurity for Embedded Systems, Software Engineering,  
-  Energy Management for IoT
+*Politecnico di Torino* — *Sept 2023 – Present*
 
 **BSc in Electronic and Telecommunication Engineering**  
-*Politecnico di Torino* — *Sept 2020 – Sept 2023*  
-- Final grade: **99/110**
-
----
-
-## 🛠 Technical Skills
-
-- **Programming Languages**:  
-  C, C++, Python, Bash, ARM Assembly, VHDL, LaTeX  
-- **Embedded & Systems**:  
-  FreeRTOS, QEMU, Bare-metal firmware, MMIO, Debugging  
-- **Tools & Environments**:  
-  GNU/Linux, Keil, ModelSim, QuestaSim, Synopsys, NXP Design Studio
-
----
-
-## 🌍 Languages & Certifications
-
-- **Italian**: Native  
-- **English**: Fluent  
-- **IELTS**: 6.0
-
----
-
-## ⚡ About Me
-
-Motivated, adaptable, and strongly curious, I enjoy working on **complex low-level systems** where software meets hardware.  
-I thrive in **international, fast-paced environments** and I am eager to contribute to challenging projects in **embedded systems, automotive platforms, and secure computing**.
+*Politecnico di Torino* — *Sept 202*
